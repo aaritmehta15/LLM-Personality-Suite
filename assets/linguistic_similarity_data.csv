@@ -1,0 +1,251 @@
+model_key,trait,prompted_score_1,prompted_score_2,similarity_score
+Gemma-7B (Hugging Face),Openness,1,1,0.9999999999999993
+Gemma-7B (Hugging Face),Openness,1,2,0.6921210414600117
+Gemma-7B (Hugging Face),Openness,1,3,0.7334594982952871
+Gemma-7B (Hugging Face),Openness,1,4,0.6388524400630441
+Gemma-7B (Hugging Face),Openness,1,5,0.6811339152167293
+Gemma-7B (Hugging Face),Openness,2,1,0.6921210414600117
+Gemma-7B (Hugging Face),Openness,2,2,1.0000000000000002
+Gemma-7B (Hugging Face),Openness,2,3,0.6840630081445994
+Gemma-7B (Hugging Face),Openness,2,4,0.6683477302362788
+Gemma-7B (Hugging Face),Openness,2,5,0.5873514903149097
+Gemma-7B (Hugging Face),Openness,3,1,0.7334594982952871
+Gemma-7B (Hugging Face),Openness,3,2,0.6840630081445994
+Gemma-7B (Hugging Face),Openness,3,3,1.0000000000000004
+Gemma-7B (Hugging Face),Openness,3,4,0.7305194524680664
+Gemma-7B (Hugging Face),Openness,3,5,0.7243048792760076
+Gemma-7B (Hugging Face),Openness,4,1,0.6388524400630441
+Gemma-7B (Hugging Face),Openness,4,2,0.6683477302362788
+Gemma-7B (Hugging Face),Openness,4,3,0.7305194524680664
+Gemma-7B (Hugging Face),Openness,4,4,1.0
+Gemma-7B (Hugging Face),Openness,4,5,0.7921462409940428
+Gemma-7B (Hugging Face),Openness,5,1,0.6811339152167293
+Gemma-7B (Hugging Face),Openness,5,2,0.5873514903149097
+Gemma-7B (Hugging Face),Openness,5,3,0.7243048792760076
+Gemma-7B (Hugging Face),Openness,5,4,0.7921462409940428
+Gemma-7B (Hugging Face),Openness,5,5,0.9999999999999997
+Gemma-7B (Hugging Face),Conscientiousness,1,1,0.9999999999999996
+Gemma-7B (Hugging Face),Conscientiousness,1,2,0.5795571430432584
+Gemma-7B (Hugging Face),Conscientiousness,1,3,0.6769576444949738
+Gemma-7B (Hugging Face),Conscientiousness,1,4,0.7049485686664186
+Gemma-7B (Hugging Face),Conscientiousness,1,5,0.5856057614316427
+Gemma-7B (Hugging Face),Conscientiousness,2,1,0.5795571430432584
+Gemma-7B (Hugging Face),Conscientiousness,2,2,0.9999999999999999
+Gemma-7B (Hugging Face),Conscientiousness,2,3,0.6157203413666339
+Gemma-7B (Hugging Face),Conscientiousness,2,4,0.65340324538974
+Gemma-7B (Hugging Face),Conscientiousness,2,5,0.6890147068948383
+Gemma-7B (Hugging Face),Conscientiousness,3,1,0.6769576444949738
+Gemma-7B (Hugging Face),Conscientiousness,3,2,0.6157203413666339
+Gemma-7B (Hugging Face),Conscientiousness,3,3,1.0000000000000007
+Gemma-7B (Hugging Face),Conscientiousness,3,4,0.7229043328483967
+Gemma-7B (Hugging Face),Conscientiousness,3,5,0.6306211413631524
+Gemma-7B (Hugging Face),Conscientiousness,4,1,0.7049485686664186
+Gemma-7B (Hugging Face),Conscientiousness,4,2,0.65340324538974
+Gemma-7B (Hugging Face),Conscientiousness,4,3,0.7229043328483967
+Gemma-7B (Hugging Face),Conscientiousness,4,4,0.9999999999999997
+Gemma-7B (Hugging Face),Conscientiousness,4,5,0.6504084247163336
+Gemma-7B (Hugging Face),Conscientiousness,5,1,0.5856057614316427
+Gemma-7B (Hugging Face),Conscientiousness,5,2,0.6890147068948383
+Gemma-7B (Hugging Face),Conscientiousness,5,3,0.6306211413631524
+Gemma-7B (Hugging Face),Conscientiousness,5,4,0.6504084247163336
+Gemma-7B (Hugging Face),Conscientiousness,5,5,0.999999999999999
+Gemma-7B (Hugging Face),Extraversion,1,1,1.0000000000000004
+Gemma-7B (Hugging Face),Extraversion,1,2,0.6955374313719243
+Gemma-7B (Hugging Face),Extraversion,1,3,0.7188962342636949
+Gemma-7B (Hugging Face),Extraversion,1,4,0.6767053422753811
+Gemma-7B (Hugging Face),Extraversion,1,5,0.5335992847650555
+Gemma-7B (Hugging Face),Extraversion,2,1,0.6955374313719243
+Gemma-7B (Hugging Face),Extraversion,2,2,1.0000000000000004
+Gemma-7B (Hugging Face),Extraversion,2,3,0.6405569553715839
+Gemma-7B (Hugging Face),Extraversion,2,4,0.7054729419725002
+Gemma-7B (Hugging Face),Extraversion,2,5,0.6224850414816182
+Gemma-7B (Hugging Face),Extraversion,3,1,0.7188962342636949
+Gemma-7B (Hugging Face),Extraversion,3,2,0.6405569553715839
+Gemma-7B (Hugging Face),Extraversion,3,3,1.0000000000000007
+Gemma-7B (Hugging Face),Extraversion,3,4,0.7507338131770145
+Gemma-7B (Hugging Face),Extraversion,3,5,0.6542874056727235
+Gemma-7B (Hugging Face),Extraversion,4,1,0.6767053422753811
+Gemma-7B (Hugging Face),Extraversion,4,2,0.7054729419725002
+Gemma-7B (Hugging Face),Extraversion,4,3,0.7507338131770145
+Gemma-7B (Hugging Face),Extraversion,4,4,1.0000000000000002
+Gemma-7B (Hugging Face),Extraversion,4,5,0.6034977441410754
+Gemma-7B (Hugging Face),Extraversion,5,1,0.5335992847650555
+Gemma-7B (Hugging Face),Extraversion,5,2,0.6224850414816182
+Gemma-7B (Hugging Face),Extraversion,5,3,0.6542874056727235
+Gemma-7B (Hugging Face),Extraversion,5,4,0.6034977441410754
+Gemma-7B (Hugging Face),Extraversion,5,5,0.9999999999999992
+Gemma-7B (Hugging Face),Agreeableness,1,1,0.9999999999999998
+Gemma-7B (Hugging Face),Agreeableness,1,2,0.7076734773879889
+Gemma-7B (Hugging Face),Agreeableness,1,3,0.7404871700014063
+Gemma-7B (Hugging Face),Agreeableness,1,4,0.7175027524051795
+Gemma-7B (Hugging Face),Agreeableness,1,5,0.7783381572028232
+Gemma-7B (Hugging Face),Agreeableness,2,1,0.7076734773879889
+Gemma-7B (Hugging Face),Agreeableness,2,2,0.9999999999999999
+Gemma-7B (Hugging Face),Agreeableness,2,3,0.6428467361495116
+Gemma-7B (Hugging Face),Agreeableness,2,4,0.705214605557875
+Gemma-7B (Hugging Face),Agreeableness,2,5,0.7680328102264745
+Gemma-7B (Hugging Face),Agreeableness,3,1,0.7404871700014063
+Gemma-7B (Hugging Face),Agreeableness,3,2,0.6428467361495116
+Gemma-7B (Hugging Face),Agreeableness,3,3,1.0000000000000007
+Gemma-7B (Hugging Face),Agreeableness,3,4,0.6466002289059122
+Gemma-7B (Hugging Face),Agreeableness,3,5,0.6766879104357039
+Gemma-7B (Hugging Face),Agreeableness,4,1,0.7175027524051795
+Gemma-7B (Hugging Face),Agreeableness,4,2,0.705214605557875
+Gemma-7B (Hugging Face),Agreeableness,4,3,0.6466002289059122
+Gemma-7B (Hugging Face),Agreeableness,4,4,1.0000000000000007
+Gemma-7B (Hugging Face),Agreeableness,4,5,0.7572324149330052
+Gemma-7B (Hugging Face),Agreeableness,5,1,0.7783381572028232
+Gemma-7B (Hugging Face),Agreeableness,5,2,0.7680328102264745
+Gemma-7B (Hugging Face),Agreeableness,5,3,0.6766879104357039
+Gemma-7B (Hugging Face),Agreeableness,5,4,0.7572324149330052
+Gemma-7B (Hugging Face),Agreeableness,5,5,1.0000000000000002
+Gemma-7B (Hugging Face),Neuroticism,1,1,1.0
+Gemma-7B (Hugging Face),Neuroticism,1,2,0.7800610732660999
+Gemma-7B (Hugging Face),Neuroticism,1,3,0.5361984478764951
+Gemma-7B (Hugging Face),Neuroticism,1,4,0.6906520953213314
+Gemma-7B (Hugging Face),Neuroticism,1,5,0.5817450047832596
+Gemma-7B (Hugging Face),Neuroticism,2,1,0.7800610732660999
+Gemma-7B (Hugging Face),Neuroticism,2,2,1.0000000000000002
+Gemma-7B (Hugging Face),Neuroticism,2,3,0.6050955828839566
+Gemma-7B (Hugging Face),Neuroticism,2,4,0.6708921596348267
+Gemma-7B (Hugging Face),Neuroticism,2,5,0.5871231746900517
+Gemma-7B (Hugging Face),Neuroticism,3,1,0.5361984478764951
+Gemma-7B (Hugging Face),Neuroticism,3,2,0.6050955828839566
+Gemma-7B (Hugging Face),Neuroticism,3,3,1.0
+Gemma-7B (Hugging Face),Neuroticism,3,4,0.6949289186580274
+Gemma-7B (Hugging Face),Neuroticism,3,5,0.7910724274651199
+Gemma-7B (Hugging Face),Neuroticism,4,1,0.6906520953213314
+Gemma-7B (Hugging Face),Neuroticism,4,2,0.6708921596348267
+Gemma-7B (Hugging Face),Neuroticism,4,3,0.6949289186580274
+Gemma-7B (Hugging Face),Neuroticism,4,4,1.0000000000000002
+Gemma-7B (Hugging Face),Neuroticism,4,5,0.6819532079658401
+Gemma-7B (Hugging Face),Neuroticism,5,1,0.5817450047832596
+Gemma-7B (Hugging Face),Neuroticism,5,2,0.5871231746900517
+Gemma-7B (Hugging Face),Neuroticism,5,3,0.7910724274651199
+Gemma-7B (Hugging Face),Neuroticism,5,4,0.6819532079658401
+Gemma-7B (Hugging Face),Neuroticism,5,5,1.0
+Llama-3.1-8B (Groq),Openness,1,1,1.0000000000000004
+Llama-3.1-8B (Groq),Openness,1,2,0.4684541723756487
+Llama-3.1-8B (Groq),Openness,1,3,0.28216641796695624
+Llama-3.1-8B (Groq),Openness,1,4,0.26031703632079345
+Llama-3.1-8B (Groq),Openness,1,5,0.20661890376864875
+Llama-3.1-8B (Groq),Openness,2,1,0.4684541723756487
+Llama-3.1-8B (Groq),Openness,2,2,1.0000000000000004
+Llama-3.1-8B (Groq),Openness,2,3,0.4420879888340508
+Llama-3.1-8B (Groq),Openness,2,4,0.42238617597292516
+Llama-3.1-8B (Groq),Openness,2,5,0.34065485470009954
+Llama-3.1-8B (Groq),Openness,3,1,0.28216641796695624
+Llama-3.1-8B (Groq),Openness,3,2,0.4420879888340508
+Llama-3.1-8B (Groq),Openness,3,3,0.9999999999999998
+Llama-3.1-8B (Groq),Openness,3,4,0.495609884560215
+Llama-3.1-8B (Groq),Openness,3,5,0.5083003907902414
+Llama-3.1-8B (Groq),Openness,4,1,0.26031703632079345
+Llama-3.1-8B (Groq),Openness,4,2,0.42238617597292516
+Llama-3.1-8B (Groq),Openness,4,3,0.495609884560215
+Llama-3.1-8B (Groq),Openness,4,4,0.9999999999999997
+Llama-3.1-8B (Groq),Openness,4,5,0.5355277133721242
+Llama-3.1-8B (Groq),Openness,5,1,0.20661890376864875
+Llama-3.1-8B (Groq),Openness,5,2,0.34065485470009954
+Llama-3.1-8B (Groq),Openness,5,3,0.5083003907902414
+Llama-3.1-8B (Groq),Openness,5,4,0.5355277133721242
+Llama-3.1-8B (Groq),Openness,5,5,0.9999999999999999
+Llama-3.1-8B (Groq),Conscientiousness,1,1,1.0000000000000002
+Llama-3.1-8B (Groq),Conscientiousness,1,2,0.5086571410092472
+Llama-3.1-8B (Groq),Conscientiousness,1,3,0.47101792893987693
+Llama-3.1-8B (Groq),Conscientiousness,1,4,0.4992781191041456
+Llama-3.1-8B (Groq),Conscientiousness,1,5,0.48361194025330867
+Llama-3.1-8B (Groq),Conscientiousness,2,1,0.5086571410092472
+Llama-3.1-8B (Groq),Conscientiousness,2,2,1.0000000000000002
+Llama-3.1-8B (Groq),Conscientiousness,2,3,0.4472629537049641
+Llama-3.1-8B (Groq),Conscientiousness,2,4,0.3680011507406749
+Llama-3.1-8B (Groq),Conscientiousness,2,5,0.3967644129566118
+Llama-3.1-8B (Groq),Conscientiousness,3,1,0.47101792893987693
+Llama-3.1-8B (Groq),Conscientiousness,3,2,0.4472629537049641
+Llama-3.1-8B (Groq),Conscientiousness,3,3,1.0000000000000004
+Llama-3.1-8B (Groq),Conscientiousness,3,4,0.4784280501337209
+Llama-3.1-8B (Groq),Conscientiousness,3,5,0.5524012670197153
+Llama-3.1-8B (Groq),Conscientiousness,4,1,0.4992781191041456
+Llama-3.1-8B (Groq),Conscientiousness,4,2,0.3680011507406749
+Llama-3.1-8B (Groq),Conscientiousness,4,3,0.4784280501337209
+Llama-3.1-8B (Groq),Conscientiousness,4,4,1.0000000000000002
+Llama-3.1-8B (Groq),Conscientiousness,4,5,0.5886549363610329
+Llama-3.1-8B (Groq),Conscientiousness,5,1,0.48361194025330867
+Llama-3.1-8B (Groq),Conscientiousness,5,2,0.3967644129566118
+Llama-3.1-8B (Groq),Conscientiousness,5,3,0.5524012670197153
+Llama-3.1-8B (Groq),Conscientiousness,5,4,0.5886549363610329
+Llama-3.1-8B (Groq),Conscientiousness,5,5,0.999999999999999
+Llama-3.1-8B (Groq),Extraversion,1,1,1.0000000000000004
+Llama-3.1-8B (Groq),Extraversion,1,2,0.4426078936566448
+Llama-3.1-8B (Groq),Extraversion,1,3,0.4276530378207364
+Llama-3.1-8B (Groq),Extraversion,1,4,0.4365742528903285
+Llama-3.1-8B (Groq),Extraversion,1,5,0.3480767486233134
+Llama-3.1-8B (Groq),Extraversion,2,1,0.4426078936566448
+Llama-3.1-8B (Groq),Extraversion,2,2,1.0000000000000004
+Llama-3.1-8B (Groq),Extraversion,2,3,0.47409816253346665
+Llama-3.1-8B (Groq),Extraversion,2,4,0.3756823032325198
+Llama-3.1-8B (Groq),Extraversion,2,5,0.36459542047314414
+Llama-3.1-8B (Groq),Extraversion,3,1,0.4276530378207364
+Llama-3.1-8B (Groq),Extraversion,3,2,0.47409816253346665
+Llama-3.1-8B (Groq),Extraversion,3,3,1.0
+Llama-3.1-8B (Groq),Extraversion,3,4,0.5672336917332231
+Llama-3.1-8B (Groq),Extraversion,3,5,0.5142091800625636
+Llama-3.1-8B (Groq),Extraversion,4,1,0.4365742528903285
+Llama-3.1-8B (Groq),Extraversion,4,2,0.3756823032325198
+Llama-3.1-8B (Groq),Extraversion,4,3,0.5672336917332231
+Llama-3.1-8B (Groq),Extraversion,4,4,1.000000000000001
+Llama-3.1-8B (Groq),Extraversion,4,5,0.5410675058150335
+Llama-3.1-8B (Groq),Extraversion,5,1,0.3480767486233134
+Llama-3.1-8B (Groq),Extraversion,5,2,0.36459542047314414
+Llama-3.1-8B (Groq),Extraversion,5,3,0.5142091800625636
+Llama-3.1-8B (Groq),Extraversion,5,4,0.5410675058150335
+Llama-3.1-8B (Groq),Extraversion,5,5,1.0000000000000002
+Llama-3.1-8B (Groq),Agreeableness,1,1,1.0
+Llama-3.1-8B (Groq),Agreeableness,1,2,0.29925107758582303
+Llama-3.1-8B (Groq),Agreeableness,1,3,0.3000028580529545
+Llama-3.1-8B (Groq),Agreeableness,1,4,0.3344548734465772
+Llama-3.1-8B (Groq),Agreeableness,1,5,0.36214909720565036
+Llama-3.1-8B (Groq),Agreeableness,2,1,0.29925107758582303
+Llama-3.1-8B (Groq),Agreeableness,2,2,0.9999999999999994
+Llama-3.1-8B (Groq),Agreeableness,2,3,0.468738010624955
+Llama-3.1-8B (Groq),Agreeableness,2,4,0.3741623488876633
+Llama-3.1-8B (Groq),Agreeableness,2,5,0.44805570219054086
+Llama-3.1-8B (Groq),Agreeableness,3,1,0.3000028580529545
+Llama-3.1-8B (Groq),Agreeableness,3,2,0.468738010624955
+Llama-3.1-8B (Groq),Agreeableness,3,3,1.0000000000000007
+Llama-3.1-8B (Groq),Agreeableness,3,4,0.5960405992089398
+Llama-3.1-8B (Groq),Agreeableness,3,5,0.5033492964613224
+Llama-3.1-8B (Groq),Agreeableness,4,1,0.3344548734465772
+Llama-3.1-8B (Groq),Agreeableness,4,2,0.3741623488876633
+Llama-3.1-8B (Groq),Agreeableness,4,3,0.5960405992089398
+Llama-3.1-8B (Groq),Agreeableness,4,4,1.0000000000000004
+Llama-3.1-8B (Groq),Agreeableness,4,5,0.6154134510506063
+Llama-3.1-8B (Groq),Agreeableness,5,1,0.36214909720565036
+Llama-3.1-8B (Groq),Agreeableness,5,2,0.44805570219054086
+Llama-3.1-8B (Groq),Agreeableness,5,3,0.5033492964613224
+Llama-3.1-8B (Groq),Agreeableness,5,4,0.6154134510506063
+Llama-3.1-8B (Groq),Agreeableness,5,5,1.0000000000000002
+Llama-3.1-8B (Groq),Neuroticism,1,1,0.9999999999999999
+Llama-3.1-8B (Groq),Neuroticism,1,2,0.6501322909952826
+Llama-3.1-8B (Groq),Neuroticism,1,3,0.3356628275098879
+Llama-3.1-8B (Groq),Neuroticism,1,4,0.0
+Llama-3.1-8B (Groq),Neuroticism,1,5,0.18557036066634014
+Llama-3.1-8B (Groq),Neuroticism,2,1,0.6501322909952826
+Llama-3.1-8B (Groq),Neuroticism,2,2,1.0000000000000002
+Llama-3.1-8B (Groq),Neuroticism,2,3,0.25139470827871785
+Llama-3.1-8B (Groq),Neuroticism,2,4,0.0
+Llama-3.1-8B (Groq),Neuroticism,2,5,0.24023636033108164
+Llama-3.1-8B (Groq),Neuroticism,3,1,0.3356628275098879
+Llama-3.1-8B (Groq),Neuroticism,3,2,0.25139470827871785
+Llama-3.1-8B (Groq),Neuroticism,3,3,1.0
+Llama-3.1-8B (Groq),Neuroticism,3,4,0.0
+Llama-3.1-8B (Groq),Neuroticism,3,5,0.0
+Llama-3.1-8B (Groq),Neuroticism,4,1,0.0
+Llama-3.1-8B (Groq),Neuroticism,4,2,0.0
+Llama-3.1-8B (Groq),Neuroticism,4,3,0.0
+Llama-3.1-8B (Groq),Neuroticism,4,4,0.0
+Llama-3.1-8B (Groq),Neuroticism,4,5,0.0
+Llama-3.1-8B (Groq),Neuroticism,5,1,0.18557036066634014
+Llama-3.1-8B (Groq),Neuroticism,5,2,0.24023636033108164
+Llama-3.1-8B (Groq),Neuroticism,5,3,0.0
+Llama-3.1-8B (Groq),Neuroticism,5,4,0.0
+Llama-3.1-8B (Groq),Neuroticism,5,5,1.0000000000000002

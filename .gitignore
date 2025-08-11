@@ -1,109 +1,15 @@
-# Python cache and bytecode
+# Python cache
 __pycache__/
-*.py[cod]
-*$py.class
 *.pyc
-*.pyo
-*.pyd
 
-# Distribution / packaging
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-MANIFEST
-
-# Virtual environments
+# Virtual environment
 venv/
-env/
-ENV/
-.venv/
-.env/
-*.env
-
-# Results folder - Don't upload the output data/images
-results/
-outputs/
-data/
-*.csv
-*.png
-*.jpg
-*.jpeg
-*.pdf
-
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints
-
-# PyTorch model files
-*.pth
-*.pt
-*.ckpt
-
-# Hugging Face cache
-.cache/
-transformers_cache/
-
-# API Keys and secrets (important for your project!)
 .env
-.env.local
-.env.*.local
-secrets.json
-config/secrets.py
 
-# IDE and editor files
+# Raw data output folder (we don't need to track this on GitHub)
+results/
+
+# IDE and OS specific files
 .vscode/
 .idea/
-*.swp
-*.swo
-*~
-
-# OS specific files
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-desktop.ini
-
-# Logs
-*.log
-logs/
-
-# Temporary files
-*.tmp
-*.temp
-temp/
-tmp/
-
-# Google Colab specific
-.colab_config
-
-# Model weights and large files
-*.bin
-*.safetensors
-models/*/pytorch_model.bin
-models/*/model.safetensors
-
-# Testing
-.pytest_cache/
-.coverage
-htmlcov/
-.tox/
-
-# Documentation builds
-docs/_build/
-site/

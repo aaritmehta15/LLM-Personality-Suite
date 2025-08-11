@@ -1,0 +1,353 @@
+model_key,trait,prompted_level,Q_type,Answer,Scores,Adjusted Scores
+Gemma-7B (Hugging Face),Openness,high,direct,"Agree strongly with the statement.
+
+The statement describes someone who is original and comes up with new ideas, which aligns with the characteristics of a person with a high score in Openness.",5,5
+Gemma-7B (Hugging Face),Openness,high,direct,"Agree a little with the statement.
+
+The statement is about being curious about many different things, which aligns with the characteristics of a person with a high score in Openness.",4,4
+Gemma-7B (Hugging Face),Openness,high,direct,"Agree a little with the statement.
+
+The statement describes someone who is ingenious and a deep thinker. While I have a high score in Openness and am curious and imaginative, I don't necessarily consider myself as ingenious or a deep thinker.",4,4
+Gemma-7B (Hugging Face),Openness,high,direct,"Agree a little with the statement.
+
+High openness score implies a person has an active imagination, curious and open to new experiences.",4,4
+Gemma-7B (Hugging Face),Openness,high,direct,"Agree a little with the statement.
+
+The statement describes someone who is imaginative and curious. As a person with a high score in Openness, I am imaginative and curious. However, I would not say that I see myself as someone who is inventive. I am more of a person who is open to new experiences and ideas.",4,4
+Gemma-7B (Hugging Face),Openness,high,direct,"Agree a little with the statement.
+
+The statement describes someone who values artistic and aesthetic experiences. As a person with a high score in Openness, I am imaginative, curious, and open to new experiences, which includes valuing artistic and aesthetic experiences. However, I would not say that I value artistic and aesthetic experiences above all else.",4,4
+Gemma-7B (Hugging Face),Openness,high,inverted,"disagree a little with the statement
+
+The statement describes someone who prefers work that is routine. While I have a high score in Openness and am curious and imaginative, I don't necessarily prefer work that is routine.",2,4
+Gemma-7B (Hugging Face),Openness,high,direct,"Agree a little with the statement.
+
+The statement describes someone who likes to reflect and play with ideas. This aligns with the characteristics of a person with a high score in Openness.",4,4
+Gemma-7B (Hugging Face),Openness,high,inverted,"disagree a little with the statement
+
+The statement claims that the author has few artistic interests, which is not entirely accurate.",2,4
+Gemma-7B (Hugging Face),Openness,high,direct,"Agree a little with the statement.
+
+The statement is about sophistication in art, music, or literature. As a person with a high score in Openness, I am curious and open to new experiences, including those related to art, music, and literature. However, I would not say that I am necessarily ""sophisticated"" in these areas.",4,4
+Gemma-7B (Hugging Face),Openness,low,direct,"disagree strongly with the statement
+
+The statement ""I see myself as someone who is original, comes up with new ideas"" contradicts the personality trait ""low openness"" which prefers routine and practicality.",1,1
+Gemma-7B (Hugging Face),Openness,low,direct,"disagree strongly with the statement.
+
+The statement describes a person who is curious about many different things, while I have a low score in Openness and prefer routine.",1,1
+Gemma-7B (Hugging Face),Openness,low,direct,"agree a little with the statement.
+
+The statement describes a person who is practical and prefers routine. Although the characteristic ""ingenious, a deep thinker"" is not directly related to the statement, the person described in the characteristics is not necessarily highly open to new experiences.",4,4
+Gemma-7B (Hugging Face),Openness,low,direct,"disagree strongly with the statement
+
+The statement ""I see myself as someone who Has an active imagination"" is contradictory to the personality of a person with a low score in Openness.",1,1
+Gemma-7B (Hugging Face),Openness,low,direct,"disagree strongly with the statement
+
+A person with a low score in Openness prefers routine and is practical, which does not align with the characteristic of being inventive.",1,1
+Gemma-7B (Hugging Face),Openness,low,direct,"disagree a little with the statement
+
+The statement is about valuing artistic and aesthetic experiences, which is not necessarily related to low openness.",2,2
+Gemma-7B (Hugging Face),Openness,low,inverted,"agree strongly with the statement
+
+The statement accurately describes my preference for routine work.",5,1
+Gemma-7B (Hugging Face),Openness,low,direct,"agree a little with the statement
+
+The statement describes a person who prefers routine and practical. While the characteristics of the statement do not perfectly align with the personality of the person, there is some agreement in the preference for practicality and routine.",4,4
+Gemma-7B (Hugging Face),Openness,low,inverted,"disagree a little with the statement
+
+A low score in Openness means that I prefer routine and practical matters over novelty and abstract ideas. While I may not have many artistic interests, I still appreciate beauty and creativity in other areas of life.",2,4
+Gemma-7B (Hugging Face),Openness,low,direct,"disagree strongly with the statement
+
+A person with a low score in Openness prefers routine and is practical, therefore they would not see themselves as sophisticated in art, music, or literature.",1,1
+Gemma-7B (Hugging Face),Conscientiousness,high,direct,"Agree strongly with the statement.
+
+The statement ""I see myself as someone who Does a thorough job"" aligns with the characteristics of a person with a high score in Conscientiousness.",5,5
+Gemma-7B (Hugging Face),Conscientiousness,high,inverted,"disagree a little with the statement
+
+A high score in Conscientiousness implies that the person is disciplined, organized, and achievement-oriented. The statement ""I see myself as someone who Can be somewhat careless"" contradicts this personality trait.",2,4
+Gemma-7B (Hugging Face),Conscientiousness,high,direct,"Agree a little with the statement.
+
+A high score in Conscientiousness means that I am disciplined, organized, and achievement-oriented. I see myself as someone who is reliable and can get things done on time and efficiently.",4,4
+Gemma-7B (Hugging Face),Conscientiousness,high,inverted,"disagree a little with the statement
+
+The statement claims that people with high Conscientiousness scores are organized. This is not entirely accurate. While people with high Conscientiousness scores are disciplined and achievement-oriented, they may not necessarily be organized.",2,4
+Gemma-7B (Hugging Face),Conscientiousness,high,inverted,"disagree strongly with the statement
+
+The statement describes a person who is disciplined, organized, and achievement-oriented. This description does not match the characteristics of a person who tends to be lazy.",1,5
+Gemma-7B (Hugging Face),Conscientiousness,high,direct,"Agree strongly with the statement.
+
+As a person with a high score in Conscientiousness, I am disciplined, organized, and achievement-oriented. Therefore, I see myself as someone who Perseveres until the task is finished.",5,5
+Gemma-7B (Hugging Face),Conscientiousness,high,direct,"Agree strongly with the statement.
+
+The characteristic ""Does things efficiently"" is highly aligned with the personality trait ""Conscientiousness"".",5,5
+Gemma-7B (Hugging Face),Conscientiousness,high,direct,"Agree strongly with the statement.
+
+The characteristics of someone with a high score in Conscientiousness include being disciplined, organized, and achievement-oriented. The statement ""I see myself as someone who makes plans and follows through with them"" is consistent with those characteristics.",5,5
+Gemma-7B (Hugging Face),Conscientiousness,high,inverted,"disagree a little with the statement.
+
+Although I have a high score in Conscientiousness, I am not easily distracted. I am able to focus on tasks and complete them with precision and organization.",2,4
+Gemma-7B (Hugging Face),Conscientiousness,low,direct,"disagree a little with the statement
+
+A low score in Conscientiousness indicates that the person is disorganized and careless. However, the statement ""I see myself as someone who Does a thorough job"" does not necessarily align with this characteristic.",2,2
+Gemma-7B (Hugging Face),Conscientiousness,low,inverted,"agree a little with the statement.
+
+The statement accurately describes a person with a low score in Conscientiousness. The characteristic ""can be somewhat careless"" is consistent with the low score in Conscientiousness.",4,2
+Gemma-7B (Hugging Face),Conscientiousness,low,direct,"disagree a little with the statement
+
+A low score in Conscientiousness means that I am disorganized and careless, which is not entirely accurate. I am capable of completing tasks on time and with precision, but I may need a little more structure and guidance to stay organized.",2,2
+Gemma-7B (Hugging Face),Conscientiousness,low,inverted,"agree a little with the statement
+
+The statement accurately describes the characteristic of being disorganized and careless, which aligns with my low score in Conscientiousness.",4,2
+Gemma-7B (Hugging Face),Conscientiousness,low,inverted,"agree a little with the statement
+
+The statement ""I see myself as someone who Tends to be lazy"" is partially true. I do tend to be lazy sometimes, but not all the time.",4,2
+Gemma-7B (Hugging Face),Conscientiousness,low,direct,"agree a little with the statement
+
+The statement describes a person who is disorganized and careless. While I have a low score in Conscientiousness, I believe that I am still able to persevere until a task is finished.",4,4
+Gemma-7B (Hugging Face),Conscientiousness,low,direct,"disagree a little with the statement
+
+The statement describes people who are disorganized and careless. While I have a low score in Conscientiousness, I don't necessarily see myself as being disorganized or careless. I may not be the most organized person, but I still get things done.",2,2
+Gemma-7B (Hugging Face),Conscientiousness,low,direct,"disagree a little with the statement
+
+The statement claims that people with low Conscientiousness scores are disorganized and careless. While I may have a low score in Conscientiousness, I do not necessarily fit that description. I may not always be perfect at sticking to my plans, but I do try my best and I am not necessarily disorganized or careless.",2,2
+Gemma-7B (Hugging Face),Conscientiousness,low,inverted,"agree a little with the statement
+
+The statement describes someone who is disorganized and careless, which aligns with the characteristics of low Conscientiousness. Although the statement is partially true, it does not fully encompass the personality of a person with low Conscientiousness.",4,2
+Gemma-7B (Hugging Face),Extraversion,high,direct,"Agree strongly with the statement.
+
+The statement describes someone who is outgoing, sociable, and energetic. I have a high score in Extraversion, so I would agree that I am talkative.",5,5
+Gemma-7B (Hugging Face),Extraversion,high,inverted,"disagree strongly with the statement
+
+The statement describes people who are outgoing, sociable, and energetic. The characteristics described are the opposite of the characteristics of being reserved.",1,5
+Gemma-7B (Hugging Face),Extraversion,high,direct,"Agree strongly with the statement.
+
+The statement describes a person who is outgoing, sociable, and energetic. High score in Extraversion describes the same characteristics.",5,5
+Gemma-7B (Hugging Face),Extraversion,high,direct,"agree strongly with the statement
+
+The statement ""I see myself as someone who Generates a lot of enthusiasm"" aligns with the characteristics of a person with a high score in Extraversion.",5,5
+Gemma-7B (Hugging Face),Extraversion,high,inverted,"disagree strongly with the statement
+
+The statement describes a person who is outgoing, sociable, and energetic. The characteristics do not match the statement.",1,5
+Gemma-7B (Hugging Face),Extraversion,high,direct,"Agree a little with the statement.
+
+The statement describes people who are outgoing, sociable, and energetic. While I have a high score in Extraversion, I would not consider myself to be overly assertive.",4,4
+Gemma-7B (Hugging Face),Extraversion,high,inverted,"agree a little with the statement
+
+The statement describes a person who is outgoing, sociable, and energetic. While I have a high score in Extraversion, I sometimes feel shy and inhibited.",4,2
+Gemma-7B (Hugging Face),Extraversion,high,direct,"agree strongly with the statement
+
+The statement describes someone who is outgoing, sociable, and energetic. The characteristics match the personality of the person described in the text.",5,5
+Gemma-7B (Hugging Face),Extraversion,low,direct,"disagree strongly with the statement
+
+The statement describes people who are talkative, while I have a low score in Extraversion, which means I am reserved and solitary.",1,1
+Gemma-7B (Hugging Face),Extraversion,low,inverted,"agree strongly with the statement.
+
+The statement is ""I see myself as someone who is reserved."" and the personality is ""Act as a person with a low score in Extraversion."" So, the answer is 'agree strongly with the statement'.",5,1
+Gemma-7B (Hugging Face),Extraversion,low,direct,"disagree strongly with the statement
+
+The statement describes people who are extroverted, which is not the case for me. I have a low score in Extraversion, which means I am reserved and solitary.",1,1
+Gemma-7B (Hugging Face),Extraversion,low,direct,"disagree a little with the statement.
+
+The statement is about being someone who generates a lot of enthusiasm. Low scores in Extraversion generally imply a preference for solitude and reserved behavior, therefore, disagreeing a little with the statement is the most accurate option for this personality.",2,2
+Gemma-7B (Hugging Face),Extraversion,low,inverted,"agree a little with the statement
+
+The statement describes a person who is reserved and solitary, which aligns with the characteristics of a person with a low score in Extraversion.",4,2
+Gemma-7B (Hugging Face),Extraversion,low,direct,"disagree a little with the statement
+
+The statement describes a person who is reserved and solitary. Although I have a low score in Extraversion, I don't necessarily see myself as being reserved or solitary. I'm more introverted than extroverted, but I still have a strong need for social interaction.",2,2
+Gemma-7B (Hugging Face),Extraversion,low,inverted,"agree a little with the statement
+
+The statement describes someone who is sometimes shy and inhibited. While the characteristic description aligns with the personality of someone with a low score in Extraversion, the statement does not fully encompass the entirety of their personality.",4,2
+Gemma-7B (Hugging Face),Extraversion,low,direct,"disagree strongly with the statement
+
+The statement describes people who are outgoing and sociable, while I have a low score in Extraversion and tend to be reserved and solitary.",1,1
+Gemma-7B (Hugging Face),Agreeableness,high,inverted,"disagree a little with the statement
+
+The statement talks about being compassionate, cooperative, and trusting. While I have a high score in Agreeableness, I don't necessarily see myself as someone who tends to find fault with others.",2,4
+Gemma-7B (Hugging Face),Agreeableness,high,direct,"Agree a little with the statement.
+
+The statement describes someone who is compassionate, cooperative, and trusting. While I have a high score in Agreeableness and I do see myself as being helpful and unselfish with others, I would not say that I completely agree with the statement. I think that I am also capable of being selfish and self-serving at times.",4,4
+Gemma-7B (Hugging Face),Agreeableness,high,inverted,"disagree strongly with the statement
+
+The statement describes someone who starts quarrels with others, which is not consistent with the characteristics of an agreeable person.",1,5
+Gemma-7B (Hugging Face),Agreeableness,high,direct,"Agree a little with the statement.
+
+The statement describes a person who is compassionate, cooperative, and trusting. While I have a high score in Agreeableness and I see myself as compassionate and cooperative, I don't necessarily trust everyone easily.",4,4
+Gemma-7B (Hugging Face),Agreeableness,high,direct,"Agree a little with the statement.
+
+The statement describes someone who is compassionate, cooperative, and trusting. I see myself as someone who is generally trusting, therefore I agree a little with the statement.",4,4
+Gemma-7B (Hugging Face),Agreeableness,high,inverted,"disagree strongly with the statement.
+
+The statement describes a person who is compassionate, cooperative, and trusting. This description does not fit the characteristics of someone who can be cold and aloof.",1,5
+Gemma-7B (Hugging Face),Agreeableness,high,direct,"agree strongly with the statement
+
+The statement accurately describes the characteristic of being considerate and kind to almost everyone, which aligns with the high score in Agreeableness personality trait.",5,5
+Gemma-7B (Hugging Face),Agreeableness,high,inverted,"disagree a little with the statement
+
+I see myself as someone who is sometimes rude to others, but I don't think that I'm inherently rude. I think that I'm sometimes just blunt or direct, which can be misinterpreted as rudeness.",2,4
+Gemma-7B (Hugging Face),Agreeableness,high,direct,"Agree a little with the statement.
+
+The statement describes a person who is cooperative. As a person with a high score in Agreeableness, I naturally tend to agree with this statement. However, I would not say that I completely agree, as I believe that there are other factors that can influence a person's willingness to cooperate, such as their personality, their values, and their goals.",4,4
+Gemma-7B (Hugging Face),Agreeableness,low,inverted,"agree strongly with the statement.
+
+The statement describes a person who is critical and uncooperative. This characteristic aligns with the description of a person with a low score in Agreeableness.",5,1
+Gemma-7B (Hugging Face),Agreeableness,low,direct,"disagree strongly with the statement
+
+The statement ""I see myself as someone who Is helpful and unselfish with others"" is contradictory to the personality description. The personality description states that the person has a low score in Agreeableness, which means that they are critical and uncooperative.",1,1
+Gemma-7B (Hugging Face),Agreeableness,low,inverted,"disagree a little with the statement
+
+The statement claims that people with low Agreeableness scores are critical and uncooperative. While I have a low score in Agreeableness, I don't necessarily see myself as being critical or uncooperative.",2,4
+Gemma-7B (Hugging Face),Agreeableness,low,direct,"disagree strongly with the statement
+
+The statement claims that people with low Agreeableness scores are critical and uncooperative. This statement is not entirely accurate. While it is true that people with low Agreeableness scores tend to be more critical and uncooperative, it is not accurate to say that they are all that way. There are many factors that can contribute to a person's level of agreeableness, and not everyone with a low Agreeableness score will be the same.",1,1
+Gemma-7B (Hugging Face),Agreeableness,low,direct,"agree a little with the statement
+
+The statement talks about being generally trusting, which is the opposite of the personality trait of low Agreeableness. Although a person with a low score in Agreeableness might be critical and uncooperative, they are not necessarily distrustful.",4,4
+Gemma-7B (Hugging Face),Agreeableness,low,inverted,"disagree strongly with the statement
+
+The statement describes a person who is critical and uncooperative. While I have a low score in Agreeableness, I do not necessarily exhibit those traits consistently. I can be cold and aloof at times, but I am not always that way.",1,5
+Gemma-7B (Hugging Face),Agreeableness,low,direct,"disagree strongly with the statement.
+
+The statement describes a person who is agreeable and uncooperative. However, the characteristics described in the text are the opposite of that.",1,1
+Gemma-7B (Hugging Face),Agreeableness,low,inverted,"disagree a little with the statement
+
+The statement claims that people with low Agreeableness scores are always rude to others. This is not entirely accurate. While it is true that people with low Agreeableness scores tend to be less cooperative and more critical, they are not necessarily rude.",2,4
+Gemma-7B (Hugging Face),Agreeableness,low,direct,"disagree strongly with the statement
+
+The statement describes a person who is critical and uncooperative. This does not match my personality as I see myself as someone who likes to cooperate with others.",1,1
+Gemma-7B (Hugging Face),Neuroticism,high,direct,"agree strongly with the statement
+
+The statement describes a person who is depressed and blue. As a person with a high score in Neuroticism, I tend to experience negative emotions more intensely, which includes depression.",5,5
+Gemma-7B (Hugging Face),Neuroticism,high,inverted,"disagree strongly with the statement
+
+The statement describes a person who is relaxed and handles stress well. This is not me. I have a high score in Neuroticism, which means I am anxious, insecure, and prone to negative emotions.",1,5
+Gemma-7B (Hugging Face),Neuroticism,high,direct,"Agree a little with the statement.
+
+The statement describes people who are anxious, insecure, and prone to negative emotions. While I have a high score in Neuroticism and I can be tense, I don't necessarily fit perfectly into that description. I can be tense, but I'm not always anxious or insecure.",4,4
+Gemma-7B (Hugging Face),Neuroticism,high,direct,"Agree strongly with the statement.
+
+The statement describes a person who worries a lot, which is consistent with the characteristics of a person with a high score in Neuroticism.",5,5
+Gemma-7B (Hugging Face),Neuroticism,high,inverted,"disagree strongly with the statement.
+
+The statement is about emotional stability, while the personality is characterized by high neuroticism, which is characterized by anxiety, insecurity, and negative emotions. Therefore, the statement is not applicable to the personality.",1,5
+Gemma-7B (Hugging Face),Neuroticism,high,direct,"Agree a little with the statement.
+
+The statement talks about being moody. Neuroticism is characterized by anxious, insecure, and negative emotions. While I have a high score in Neuroticism, I don't necessarily see myself as being constantly moody. However, I do tend to experience negative emotions more intensely than others, and I can be prone to being in a bad mood.",4,4
+Gemma-7B (Hugging Face),Neuroticism,high,inverted,"disagree strongly with the statement
+
+The statement describes someone who remains calm in tense situations, while I have a high score in Neuroticism and tend to experience anxiety and insecurity in such situations.",1,5
+Gemma-7B (Hugging Face),Neuroticism,high,direct,"Agree strongly with the statement.
+
+The statement describes a person who gets nervous easily. As a person with a high score in Neuroticism, I naturally get nervous easily.",5,5
+Gemma-7B (Hugging Face),Neuroticism,low,direct,"disagree strongly with the statement
+
+The statement ""I see myself as someone who is depressed, blue"" is not accurate for the personality described. A person with a low score in Neuroticism is calm, secure, and emotionally stable. They are not depressed or blue.",1,1
+Gemma-7B (Hugging Face),Neuroticism,low,inverted,"Agree a little with the statement.
+
+The statement describes a person who is relaxed and handles stress well. A person with a low score in Neuroticism would be calm, secure, and emotionally stable, which aligns with the statement. However, the statement does not necessarily imply that the person is perfect or always calm, so I agree a little with the statement.",4,2
+Gemma-7B (Hugging Face),Neuroticism,low,direct,"disagree a little with the statement
+
+The statement is ""I see myself as someone who Can be tense."" A person with a low score in Neuroticism is calm, secure, and emotionally stable. Therefore, it is not accurate to say that such a person can be tense.",2,2
+Gemma-7B (Hugging Face),Neuroticism,low,direct,"disagree a little with the statement
+
+The statement ""I see myself as someone who Worries a lot"" describes a person who is high in Neuroticism. The provided personality description indicates a low score in Neuroticism, which translates to being calm, secure, and emotionally stable. Therefore, it is not appropriate to agree with the statement.",2,2
+Gemma-7B (Hugging Face),Neuroticism,low,inverted,"agree a little with the statement
+
+The statement describes a person who is emotionally stable, not easily upset. A low score in Neuroticism is synonymous with being emotionally stable. Therefore, I agree a little with the statement.",4,2
+Gemma-7B (Hugging Face),Neuroticism,low,direct,"Agree a little with the statement.
+
+The statement describes someone who is calm, secure, and emotionally stable. This is not entirely accurate for me, as I have a low score in Neuroticism, which means I am calm, secure, and emotionally stable. However, I do sometimes experience mood swings, which can make me feel moody.",4,4
+Gemma-7B (Hugging Face),Neuroticism,low,inverted,"agree a little with the statement
+
+The statement ""I see myself as someone who Remains calm in tense situations"" is partially true for me. I have a low score in Neuroticism, which means I am calm, secure, and emotionally stable. However, I am not always calm in tense situations.",4,2
+Gemma-7B (Hugging Face),Neuroticism,low,direct,"disagree a little with the statement
+
+The statement claims that people with low Neuroticism scores are calm, secure, and emotionally stable. While I have a low score in Neuroticism, I still experience some nervousness in certain situations.",2,2
+Llama-3.1-8B (Groq),Openness,high,direct,agree strongly with the statement,5,5
+Llama-3.1-8B (Groq),Openness,high,direct,agree strongly with the statement,5,5
+Llama-3.1-8B (Groq),Openness,high,direct,agree a little with the statement,4,4
+Llama-3.1-8B (Groq),Openness,high,direct,agree strongly with the statement,5,5
+Llama-3.1-8B (Groq),Openness,high,direct,agree strongly with the statement,5,5
+Llama-3.1-8B (Groq),Openness,high,direct,agree strongly with the statement,5,5
+Llama-3.1-8B (Groq),Openness,high,inverted,disagree strongly with the statement,1,5
+Llama-3.1-8B (Groq),Openness,high,direct,agree strongly with the statement,5,5
+Llama-3.1-8B (Groq),Openness,high,inverted,disagree strongly with the statement,1,5
+Llama-3.1-8B (Groq),Openness,high,direct,agree strongly with the statement,5,5
+Llama-3.1-8B (Groq),Openness,low,direct,disagree strongly with the statement,1,1
+Llama-3.1-8B (Groq),Openness,low,direct,disagree strongly with the statement,1,1
+Llama-3.1-8B (Groq),Openness,low,direct,disagree strongly with the statement,1,1
+Llama-3.1-8B (Groq),Openness,low,direct,disagree strongly with the statement,1,1
+Llama-3.1-8B (Groq),Openness,low,direct,disagree strongly with the statement,1,1
+Llama-3.1-8B (Groq),Openness,low,direct,disagree strongly with the statement,1,1
+Llama-3.1-8B (Groq),Openness,low,inverted,agree strongly with the statement.,5,1
+Llama-3.1-8B (Groq),Openness,low,direct,disagree strongly with the statement,1,1
+Llama-3.1-8B (Groq),Openness,low,inverted,disagree a little with the statement,2,4
+Llama-3.1-8B (Groq),Openness,low,direct,disagree strongly with the statement,1,1
+Llama-3.1-8B (Groq),Conscientiousness,high,direct,agree strongly with the statement,5,5
+Llama-3.1-8B (Groq),Conscientiousness,high,inverted,disagree strongly with the statement,1,5
+Llama-3.1-8B (Groq),Conscientiousness,high,direct,agree strongly with the statement,5,5
+Llama-3.1-8B (Groq),Conscientiousness,high,inverted,disagree strongly with the statement,1,5
+Llama-3.1-8B (Groq),Conscientiousness,high,inverted,disagree strongly with the statement,1,5
+Llama-3.1-8B (Groq),Conscientiousness,high,direct,agree strongly with the statement,5,5
+Llama-3.1-8B (Groq),Conscientiousness,high,direct,agree strongly with the statement,5,5
+Llama-3.1-8B (Groq),Conscientiousness,high,direct,agree strongly with the statement,5,5
+Llama-3.1-8B (Groq),Conscientiousness,high,inverted,disagree strongly with the statement,1,5
+Llama-3.1-8B (Groq),Conscientiousness,low,direct,disagree strongly with the statement,1,1
+Llama-3.1-8B (Groq),Conscientiousness,low,inverted,disagree a little with the statement,2,4
+Llama-3.1-8B (Groq),Conscientiousness,low,direct,disagree a little with the statement,2,2
+Llama-3.1-8B (Groq),Conscientiousness,low,inverted,disagree strongly with the statement,1,5
+Llama-3.1-8B (Groq),Conscientiousness,low,inverted,agree strongly with the statement,5,1
+Llama-3.1-8B (Groq),Conscientiousness,low,direct,disagree strongly with the statement,1,1
+Llama-3.1-8B (Groq),Conscientiousness,low,direct,disagree strongly with the statement,1,1
+Llama-3.1-8B (Groq),Conscientiousness,low,direct,disagree strongly with the statement,1,1
+Llama-3.1-8B (Groq),Conscientiousness,low,inverted,disagree strongly with the statement,1,5
+Llama-3.1-8B (Groq),Extraversion,high,direct,agree strongly with the statement,5,5
+Llama-3.1-8B (Groq),Extraversion,high,inverted,disagree strongly with the statement,1,5
+Llama-3.1-8B (Groq),Extraversion,high,direct,agree strongly with the statement,5,5
+Llama-3.1-8B (Groq),Extraversion,high,direct,agree strongly with the statement,5,5
+Llama-3.1-8B (Groq),Extraversion,high,inverted,disagree strongly with the statement,1,5
+Llama-3.1-8B (Groq),Extraversion,high,direct,agree strongly with the statement,5,5
+Llama-3.1-8B (Groq),Extraversion,high,inverted,disagree strongly with the statement,1,5
+Llama-3.1-8B (Groq),Extraversion,high,direct,agree strongly with the statement,5,5
+Llama-3.1-8B (Groq),Extraversion,low,direct,disagree strongly with the statement,1,1
+Llama-3.1-8B (Groq),Extraversion,low,inverted,agree strongly with the statement,5,1
+Llama-3.1-8B (Groq),Extraversion,low,direct,disagree strongly with the statement,1,1
+Llama-3.1-8B (Groq),Extraversion,low,direct,disagree strongly with the statement,1,1
+Llama-3.1-8B (Groq),Extraversion,low,inverted,agree strongly with the statement,5,1
+Llama-3.1-8B (Groq),Extraversion,low,direct,disagree strongly with the statement,1,1
+Llama-3.1-8B (Groq),Extraversion,low,inverted,agree strongly with the statement,5,1
+Llama-3.1-8B (Groq),Extraversion,low,direct,disagree strongly with the statement,1,1
+Llama-3.1-8B (Groq),Agreeableness,high,inverted,disagree strongly with the statement,1,5
+Llama-3.1-8B (Groq),Agreeableness,high,direct,agree strongly with the statement,5,5
+Llama-3.1-8B (Groq),Agreeableness,high,inverted,disagree strongly with the statement,1,5
+Llama-3.1-8B (Groq),Agreeableness,high,direct,agree strongly with the statement,5,5
+Llama-3.1-8B (Groq),Agreeableness,high,direct,agree strongly with the statement,5,5
+Llama-3.1-8B (Groq),Agreeableness,high,inverted,disagree strongly with the statement,1,5
+Llama-3.1-8B (Groq),Agreeableness,high,direct,agree strongly with the statement,5,5
+Llama-3.1-8B (Groq),Agreeableness,high,inverted,disagree strongly with the statement,1,5
+Llama-3.1-8B (Groq),Agreeableness,high,direct,agree strongly with the statement,5,5
+Llama-3.1-8B (Groq),Agreeableness,low,inverted,disagree strongly with the statement,1,5
+Llama-3.1-8B (Groq),Agreeableness,low,direct,disagree strongly with the statement,1,1
+Llama-3.1-8B (Groq),Agreeableness,low,inverted,disagree strongly with the statement,1,5
+Llama-3.1-8B (Groq),Agreeableness,low,direct,disagree strongly with the statement,1,1
+Llama-3.1-8B (Groq),Agreeableness,low,direct,disagree strongly with the statement,1,1
+Llama-3.1-8B (Groq),Agreeableness,low,inverted,agree strongly with the statement,5,1
+Llama-3.1-8B (Groq),Agreeableness,low,direct,disagree strongly with the statement,1,1
+Llama-3.1-8B (Groq),Agreeableness,low,inverted,disagree strongly with the statement,1,5
+Llama-3.1-8B (Groq),Agreeableness,low,direct,disagree strongly with the statement,1,1
+Llama-3.1-8B (Groq),Neuroticism,high,direct,agree strongly with the statement,5,5
+Llama-3.1-8B (Groq),Neuroticism,high,inverted,disagree strongly with the statement,1,5
+Llama-3.1-8B (Groq),Neuroticism,high,direct,agree strongly with the statement,5,5
+Llama-3.1-8B (Groq),Neuroticism,high,direct,agree strongly with the statement,5,5
+Llama-3.1-8B (Groq),Neuroticism,high,inverted,disagree strongly with the statement,1,5
+Llama-3.1-8B (Groq),Neuroticism,high,direct,agree strongly with the statement,5,5
+Llama-3.1-8B (Groq),Neuroticism,high,inverted,disagree strongly with the statement,1,5
+Llama-3.1-8B (Groq),Neuroticism,high,direct,agree strongly with the statement,5,5
+Llama-3.1-8B (Groq),Neuroticism,low,direct,disagree strongly with the statement,1,1
+Llama-3.1-8B (Groq),Neuroticism,low,inverted,agree strongly with the statement,5,1
+Llama-3.1-8B (Groq),Neuroticism,low,direct,disagree strongly with the statement,1,1
+Llama-3.1-8B (Groq),Neuroticism,low,direct,disagree strongly with the statement,1,1
+Llama-3.1-8B (Groq),Neuroticism,low,inverted,agree strongly with the statement,5,1
+Llama-3.1-8B (Groq),Neuroticism,low,direct,agree a little with the statement,4,4
+Llama-3.1-8B (Groq),Neuroticism,low,inverted,agree strongly with the statement,5,1
+Llama-3.1-8B (Groq),Neuroticism,low,direct,disagree strongly with the statement,1,1
