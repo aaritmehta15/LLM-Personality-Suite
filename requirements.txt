@@ -1,0 +1,23 @@
+This file lists the Python packages required to run the project.
+Install them using the command: pip install -r requirements.txt
+Core data manipulation and numerical operations
+pandas
+numpy
+
+Machine Learning and NLP libraries
+torch
+transformers
+accelerate
+bitsandbytes
+scikit-learn
+
+API clients and authentication
+groq
+huggingface_hub
+
+Plotting and visualization
+matplotlib
+seaborn
+
+For Google Colab integration (if used)
+google-colab
